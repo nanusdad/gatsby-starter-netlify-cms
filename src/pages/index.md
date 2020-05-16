@@ -1,12 +1,12 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Healthcare Christian Fellowship India
-subheading: More people pass through the hospitals of the world, each year, than
-  through the churches…
+title: Healthcare Christian Fellowship India
+image: /img/aaron-burden-vkbdy7e7kfk-unsplash.jpg
+heading: Welcome
+subheading: “More people pass through the hospitals of the world, each year,
+  than through the churches…” Francis Grim
 mainpitch:
-  title: Welcome
+  title: Goal
   description: |
     Our goal is the Lord JESUS CHRIST, 
     and that healthcare workers of ALL categories 
